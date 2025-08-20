@@ -1,0 +1,47 @@
+# =============== Unity generated files ===================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+bin/
+
+# Auto-generated VS/VSCode project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.meta
+
+# Unity Cache Server
+/[Cc]ache/
+
+# Visual Studio Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ================= Asset Store ===========================
+# Ignore Asset Store tools cache
+/Assets/AssetStoreTools*
+
+# ================= Custom Lightmaps ======================
+# Example: ignore specific Lightmap files
+Assets/_Main/Scene/** 
+Assets/_Main/Scene/** 
+
